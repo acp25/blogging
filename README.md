@@ -1,5 +1,7 @@
 # blogging
 
+This application is a CMS-style blog site that is similar to a Wordpress site.
+
 # Installation
 
 Clone the repositry from GitHub and use your favorite code editor. Remember to create a database for this application.
