@@ -7,7 +7,7 @@ This application is a CMS-style blog site that is similar to a Wordpress site.
 Clone the repositry from GitHub and use your favorite code editor. Remember to create a database for this application.
 
 # Usage 
-
+Delpoyed Application: https://belle-vin-80105.herokuapp.com/
 ![blogging pic](https://user-images.githubusercontent.com/60405505/125718498-648d4dcd-3cab-4550-9ec6-3f22044b54ec.GIF)
 
 
