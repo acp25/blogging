@@ -22,13 +22,18 @@ express-session https://www.npmjs.com/package/express-session
 
 connect-session-sequelize https://www.npmjs.com/package/connect-session-sequelize
 
-MySQL 2 https://www.npmjs.com/package/mysql2
+Sequelize https://www.npmjs.com/package/sequelize
 
 handlebars https://handlebarsjs.com/
 
-Sequelize https://www.npmjs.com/package/sequelize
+bcrypt https://www.npmjs.com/package/bcrypt
 
 dotenv https://www.npmjs.com/package/dotenv
+
+Heroku https://www.heroku.com/
+
+MySQL 2 https://www.npmjs.com/package/mysql2
+
 
 ## MIT Licencse
 
