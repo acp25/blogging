@@ -16,19 +16,19 @@ Delpoyed Application: https://belle-vin-80105.herokuapp.com/
 
 Made by [Alex Philibert]
 
-[express.js]https://www.npmjs.com/package/express
+express.js https://www.npmjs.com/package/express
 
-[express-session] https://www.npmjs.com/package/express-session
+express-session https://www.npmjs.com/package/express-session
 
-[connect-session-sequelize]https://www.npmjs.com/package/connect-session-sequelize
+connect-session-sequelize https://www.npmjs.com/package/connect-session-sequelize
 
-[MySQL 2] https://www.npmjs.com/package/mysql2
+MySQL 2 https://www.npmjs.com/package/mysql2
 
-[handlebars] https://handlebarsjs.com/
+handlebars https://handlebarsjs.com/
 
-[Sequelize] https://www.npmjs.com/package/sequelize
+Sequelize https://www.npmjs.com/package/sequelize
 
-[dotenv] https://www.npmjs.com/package/dotenv
+dotenv https://www.npmjs.com/package/dotenv
 
 ## MIT Licencse
 
