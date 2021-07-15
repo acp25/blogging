@@ -5,7 +5,7 @@
 Clone the repositry from GitHub and 
 
 # Usage 
-[Deployed Site](https://rst-bit-blog.herokuapp.com/)
+
 
 
 
